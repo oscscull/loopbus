@@ -48,7 +48,7 @@ Pre-built VST3 binaries are available on the [Releases](../../releases) page.
 ### Steps
 
 ```bash
-git clone --recursive https://github.com/YOURNAME/LoopBus.git
+git clone --recursive https://github.com/oscscull/LoopBus.git
 cd LoopBus
 cmake -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build --config Release
